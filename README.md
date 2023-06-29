@@ -1,2 +1,2 @@
 # SHL2023
-某只参加SHL2023的RUC小队的代码  
+The code of a certain RUC team participating in SHL2023  
