@@ -5,7 +5,7 @@ The code of the team "WinGPT" from RUC participating in SHL2023.
 
 The project includes data preprocessing, feature extraction and model training.
 
-**Python version: 3.11**
+**Python version: 3.11.3**
 
 ## Mainly used library
 torch: 2.0.1
