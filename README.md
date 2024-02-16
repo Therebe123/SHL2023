@@ -32,4 +32,5 @@ The goal of Sussex-Huawei Locomotion-Transportation (SHL) recognition challenge 
 
 ## Competition results
 A macro F1 score of 85.6% on the test set. 
+
 Ranked seventh overall and third in the ML group.
